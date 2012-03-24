@@ -1,6 +1,6 @@
-# tomsheep.net
+# dazuo.me
 
-This is a personal blog owned by Kang Liu.
+This is a personal blog owned by Dazuo Sun.
 
 This is powered by a new static blog engine written in node called [wheat][].
 
