@@ -17,6 +17,7 @@ Lang: git
 主要是第二章的摘录，如果你也像我一样只是想简单用用git，阅读第二章就已经足够了，用文章的原话说
 If you can read only one chapter to get going with Git, this is it。
 除了上面讲的这三个命令以外
+
     1.git init 
    初始化，生成.git文件夹 跟svn 的init一样
 
