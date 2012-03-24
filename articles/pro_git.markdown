@@ -8,10 +8,16 @@ Lang: git
 
    从原理上讲，svn和git最大的区别在于svn存的是difference，git存的是snapshot。git会在reversion A 和 reversion B下对同一个文件存多份（当这个文件在reversion A 和 reversion B下存在差异的时候），而svn不会，svn存的是这个文件从版本A到版本B的差异。
    理解这一点对后续理解git命令非常有帮助，比如git commit 不是将代码提交到server端，而是在本地将代码打一个snapshot。通常通过git提交代码需要这几步：
-      1.git add  将文件纳入git管理范围之内，这个svn add 起到的效果是一样。
-      2.git commit  注意这一步不是将代码提交到服务器端，这个命令是将本地的代码打一个snapshot。git的强大的之处在于有一天即便你存代码的服务器挂掉了，你也可以通过本地的文件恢复到服务器上。所以你可以想象成你本地也有个git代码库，commit命令只是把你的代码提交到本地的那个库而已。
-      3.git push origin master，这个命令才是真正将你本地的代码提交到server端。
+      
+      1.git add  
+   将文件纳入git管理范围之内，这个svn add 起到的效果是一样。
+   
+      2.git commit  
+   注意这一步不是将代码提交到服务器端，这个命令是将本地的代码打一个snapshot。git的强大的之处在于有一天即便你存代码的服务器挂掉了，你也可以通过本地的文件恢复到服务器上。所以你可以想象成你本地也有个git代码库，commit命令只是把你的代码提交到本地的那个库而已。
+      3.git push origin master 
+   这个命令才是真正将你本地的代码提交到server端。
    origin 是代码分支的别名，通过这个命令  
+      
       git remote add origin git@github.com:username/Hello-World.git 
    将orign别名为git@github.com:username/Hello-World.git
    master 是分支名，在git中属于主干，相当于svn中的trunk。
@@ -70,6 +76,7 @@ If you can read only one chapter to get going with Git, this is it。
    
     10.git pull
    会标记错误：如
+   
     C:\work\mycode\nodejs\beginner>git pull origin master
     From github.com:cartman0721/nodejs_beginner
     * branch            master     -> FETCH_HEAD
@@ -77,6 +84,7 @@ If you can read only one chapter to get going with Git, this is it。
     CONFLICT (content): Merge conflict in tt.txt
     Automatic merge failed; fix conflicts and then commit the result.
    tt.txt变成下边的摸样：
+   
     <<<<<<< HEAD
     ddddttttt
     test from cartman@windows
