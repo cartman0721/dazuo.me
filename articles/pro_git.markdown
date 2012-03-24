@@ -43,7 +43,8 @@ If you can read only one chapter to get going with Git, this is it。
     II：to be commited,文件被纳入git管理了却没有被提交，需要git commit（没有被打snapshot）。
     
     III：nothin to be commit，这种情况说明本地已经被打了snapshot，下一步可以用git push 将代码push到你想要的分支上。
-
+   <br>
+   
     4.git commit -a -m "test" 
    这是一个非常有用的命令，在理解了git commit是将本地代码打一个快照之后，git commit -a 就是讲本地所有修改或者删除的文件打一个快照（所有文件鼻息是tracked，否则就要先使用git add），为git push 做准备。
     
@@ -57,18 +58,22 @@ If you can read only one chapter to get going with Git, this is it。
     * master
     merge2
     nodejs_beginner
+<br>
 
     7. git branch -D merge2
    删除分支：
+   
     cartman@ubuntu:~/workshop/nodejs_beginner$ git branch -D merge2
     Deleted branch merge2 (was eb013c8)。
-   这只是在本地删掉而已，正在在服务其端要通过下面到命令
+   这只是在本地删掉而已，还要push到服务器
+   
     cartman@ubuntu:~/workshop/nodejs_beginner$ git push origin :merge2
     Username for 'https://github.com': cartman0721
     Password for 'https://cartman0721@github.com':
     To https://github.com/cartman0721/nodejs_beginner
     - [deleted] merge2
-
+   <br>
+   
     8.git reomte -v 
    查看项目路径
 
