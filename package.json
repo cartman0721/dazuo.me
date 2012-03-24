@@ -1,12 +1,12 @@
 {
-  "author": "Kang Liu <tomsheep.cn@gmail.com> (http://tomsheep.net/)",
-  "name": "tomsheep.net",
-  "description": "Nonsense is Meaningful",
+  "author": "Kang Liu <sundazuo@gmail.com> (http://dazuo.me/)",
+  "name": "dazuo.me",
+  "description": "Log4Myself",
   "version": "0.0.1",
-  "homepage": "http://tomsheep.net/",
+  "homepage": "http://dazuo.me/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tomsheep/tomsheep.net.git"
+    "url": "git://github.com/cartman0721/dazuo.me.git"
   },
   "engines": {
     "node": ">=0.4.0"
@@ -14,7 +14,7 @@
   "dependencies": {
     "stack": ">=0.0.3",
     "creationix": ">=0.1.2",
-    "wheat": "git://github.com/tomsheep/wheat.git",
+    "wheat": "git://github.com//cartman0721/wheat.git",
     "cluster": ">=0.6.4"
   },
   "devDependencies": {}

@@ -1,8 +1,8 @@
 %rss(version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom")
   %channel
     %title Nonsense is Meaningful
-    %atom:link(href="http://blog.tomsheep.net/feed.xml" rel="self" type="application/rss+xml")
-    %link http://blog.tomsheep.net/
+    %atom:link(href="http://dazuo.me/feed.xml" rel="self" type="application/rss+xml")
+    %link http://dazuo.me/
     %description We talk about everything and nothing.
     %pubDate&= formatRFC822Date(new Date())
     %generator http://github.com/creationix/wheat
@@ -10,9 +10,9 @@
     :each article in articles
       %item
         %title&= article.title
-        %link&= "http://blog.tomsheep.net/" + article.name
-        %comments&= "http://blog.tomsheep.net/" + article.name + "#disqus_thread"
+        %link&= "http://dazuo.me/" + article.name
+        %comments&= "http://dazuo.me/" + article.name + "#disqus_thread"
         %pubDate&= formatRFC822Date(article.date)
-        %guid(isPermaLink="true")&= "http://blog.tomsheep.net/" + article.name
+        %guid(isPermaLink="true")&= "http://dazuo.me/" + article.name
         %description&= markdownEncode(article.markdown)
         %author&= article.author && (article.author.email + " (" + article.author.name + ")")

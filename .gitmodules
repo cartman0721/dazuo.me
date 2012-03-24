@@ -1,3 +1,3 @@
 [submodule "node_modules/wheat"]
 	path = node_modules/wheat
-	url = git://github.com/tomsheep/wheat.git
+	url = git://github.com/cartman0721/wheat.git
