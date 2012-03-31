@@ -32,7 +32,12 @@
       %dl
         %dt Weibo:
         %dd
-            %a{href: "http://weibo.com/u/1574501871}
+            %a{href: "http://weibo.com/u/1574501871"}#{author.weibo}
+    :if author.douban
+      %dl
+        %dt Douban:
+        %dd
+            %a{href: "http://www.douban.com/people/#{author.douban}"}#{author.douban}
     :if author.github
       %dl
         %dt Github:

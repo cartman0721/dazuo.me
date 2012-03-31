@@ -1,4 +1,4 @@
-### About tomsheep.net
+### About dazuo.me
 
 dazuo.me is a personal blog created by Dazuo sun. The purpose of this blog is to record personal experience of life and work. [RSS(订阅)](http://rss.dazuo.me)
 
