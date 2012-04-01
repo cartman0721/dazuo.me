@@ -38,10 +38,6 @@
         %dt Douban:
         %dd
             %a{href: "http://www.douban.com/people/#{author.douban}"}#{author.douban}
-      %dl
-        %dt:
-        %dd
-            %a{href: "http://cartman.sinaapp.com"}旧文
     :if author.github
       %dl
         %dt Github:
@@ -54,6 +50,10 @@
       %dl
         %dt Twitter:
         %dd= twitter(author.twitter)
+       %dl
+        %dt:
+        %dd
+            %a{href: "http://cartman.sinaapp.com"}一些旧文
     :if author.location
       %dl
         %dt Location:
