@@ -7,12 +7,12 @@ Lang: 健康
    最近老妈学中医卓有成效，气色脾气都比原来好了很多，mark下老妈教我的几招。毕竟看了公司里许多同事先后生病住院，深知这个世界上
    命才是最重要的。
    
-   ##[壁虎爬行法](http://www.tudou.com/programs/view/gsDJ97E8EEQ/)
+##[壁虎爬行法](http://www.tudou.com/programs/view/gsDJ97E8EEQ/)
    
    壁虎爬行法对提高人的气血很有好处，所谓气血就是能量和精力，气血足了干起活来才有力气。
    
    
-   ##[引血下行三步法](http://www.tudou.com/programs/view/gsDJ97E8EEQ/)
+##[引血下行三步法](http://www.tudou.com/programs/view/gsDJ97E8EEQ/)
    
    引血下行三步法包含：
    
