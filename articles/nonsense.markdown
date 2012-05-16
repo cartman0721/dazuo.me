@@ -1,4 +1,4 @@
-Title: 读《程序员的思维修炼》
+Title: 睡前胡诌
 Author: Dazuo Sun
 Date: Fri April 1 2012 10:28:00 GMT+0800 (China Standard Time)
 Lang: 读书
