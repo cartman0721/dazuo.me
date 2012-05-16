@@ -2,16 +2,31 @@ Title: 读《程序员的思维修炼》
 Author: Dazuo Sun
 Date: Fri April 1 2012 10:28:00 GMT+0800 (China Standard Time)
 Lang: 读书
-   最近发现自己跟自己玩是一件很有意思的事情，李笑来在他的《把时间当做朋友》里面讲到：当你的大脑意识到本身的存在并试图在不通过外力的情况下改变本身（大脑）是一件非常奇妙的事情。所以最近看了很多有关自我认知的书，比如这本《程序员的思维修炼读》。因为无论从功利的角度，还是趣味性（想想探索自身的奥秘就觉得是一件及其好玩的事情），学习这方面的东西都很有意义。
+   
+   我现在所在的地方叫做滨江（杭州），这里聚集着来自全国各地的IT民工，除了阿里巴巴之外，还有网易，华为，诺西之类的IT公司；这里的大马路很宽，很干净，晚上走在上面有种很空旷，很自由的感觉；这里的规划很整齐，一条条纵横交错的道路把土地划分成一个一个的长方形的格子。这里的农民都是一些拆迁暴发户，在拆迁安置土地上建起一座座小洋楼，光收取房租就能让他们过上相对富足的生活。
 
-好的书不需要从头到尾都给你醍醐灌顶似的启发，有那么一两点就体现价值了。这本书我重点看了1-4节，后面的几章以介绍如何具体实战操作为主，乍看一下操作性很强，仔细读读感觉一般，带有明显的成功学书籍特征。虽然一点一点列的很清楚，但估计我是没有这个能耐把这些操作执行到底，所以索性简单略读过去了。
+   我现在所住的房子附近有一条逼仄的小路，路口有一个大型的垃圾处理中心，再过去就是一排低矮的平房，里面散发出暧昧的粉红色的灯光，不时有打扮的浓妆艳抹的女人出来向你招手。路边常年停留着推着三轮车来卖水果和油炸品的小商小贩，对面的体育彩票中心永远围着一圈人赌博，便利店里的大妈总是在织一间黑色的毛衣，房东们一定都躲在被窝里蘸着口水数钱，整条小路弥漫着一种骚骚的味道，伴随着一种精神生活缺失的苦闷。
 
-第二章把程序员类比为护士让我很有认同感，在大公司做事的同学可能都有体会，大公司强调执行力，程序员更多地时候是一个执行者而缺乏全局观和对为什么这么做的深度认知。读到把大脑分为R型和L型的时候我有种恍然大悟的感觉，L型思维中规中矩，老老实实地按逻辑解决问题，而R型思维是那种突然蹦出来的，不请自来的奇妙点子，而这些点子往往更有价值。这解释了为什么很多对自身产生重大影响的点子都是自己在不经意的情况下蹦出来的，为什么我有时候待在电脑前就百思不得其解，而一到洗手间就想到解决方案了，这就是书中所说的R型思维。悲催的是L型思维和R型思维往往不能并行。所以如果一个人把自己搞的太苦逼，让L型思维暂满了大脑，结果往往会适得其反，因为R型思维正离你远去。
+   我每天晚上都叮嘱自己要早睡早起。天气暖和的时候，我会早早地起来，跑到钱塘江边去晨练。我常常加班，回来早的时候，我会躲在被窝里看很长时间的小说。。想起我初一的时候，天真幼稚，身体瘦弱，像个零件一样兴冲冲地来报到，于是整个初中，高中，大学就像流水线一般过去。中国的教育就是这样，把你身上多余的地方磨平，没有的地方补上，最后的时候贴上“合格”的标签，哐当一声扔进社会，好，你就是祖国的未来和民族的希望了。。
 
-所以如何追踪R型思维并将之付诸实践就成了一件相当关键的事情：涉及具体操作，有两点蛮有意义的
+   离开学校，目标没那么清晰了，开始思考你内心真正想要的是什么。你初中的目标是考县里的重点高中，你高中的目标是考重点大学，你大学的目标是拿奖学金和找体面的工作。你的亲朋好友六姑八婆都鼓励你这么做。。。你为谁而活，为苦口婆心的父母活？为尊尊教诲的老师活，为给别人展示一个体面的姿态活，为各种xx责任活？
 
-1.自由日记：每个周末给自己一段相对放松的时间用来书写这周的事情和下周的计划。俗一点的说法叫做总结过去和展望未来。需要完全放松，可以给自己来点放松的音乐，可以选择在咖啡厅，同时追踪这周脑子里闪过哪些一闪而过的想法（不然怎么叫做自由笔记），而这些想法很有可能在接下来的日子里改变你的生活和习惯。
+   于是。。。有点迷茫。。一个想着自己以后能做什么，为旺盛的精力和花枝招展的女人心烦意乱。。独自躲在屋里看各种小说和电影。。。当初拯救中国革命和世界人民的每一本书，都tmd不能拯救一个弱小的灵魂。。
 
-2.语音记录：一出现好想法马上记录。我通常用手机上evernote语音笔记的功能，等闲下来的时候再仔细思考是否靠谱
+   罗素说，人的幸福感一定是随着年龄的增加而增长的。w.s.毛姆说，认为青春是快乐的，一定是一种错觉。我想我明年过的一定比今年有满足感。。虽然我还暂时没有看到明年有什么变化。。。
+
+###god bless us！
+
+###------------------华丽丽的分割线---------------
+
+出自《人性的枷锁》
+
+An Illusion 
+　　　　　　 
+William S. Maugham
+
+It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched, for they are full of the truthless ideals which have been instilled into them, and each time they come in contact with the real they are bruised and wounded. It looks as if they were victims of a conspiracy; for the books they read, ideal by the necessity of selection, and the conversation of their elders, who look back upon the past through a rosy haze of forgetfulness, prepare them for an unreal life. 　　　　　 
+
+They must discover for themselves that all they have read and all they have been told are lies, lies, lies; and each discovery is another nail drivens into the body on the cross of life. The strange thing is that each one who has gone through that bitter disillusionment add to it in his turn,, unconsciously, by the power within him which is stronger than himself.
 
 
