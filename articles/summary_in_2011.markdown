@@ -1,6 +1,5 @@
 Title: 写点总结
 Author: Dazuo Sun
-Jan 1, 2012 @ 14:51
 Date: Sun Jan 1 2012 11:10:00 GMT+0800 (China Standard Time)
 Lang: douban
 
