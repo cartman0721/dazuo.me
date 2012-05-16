@@ -80,12 +80,6 @@
           Date Released:
         %dd
           &= formatDate(article.date, "%A, %B %e, %Y")
-    :if article.lastUpdated
-      %dl{title: article.lastUpdated}
-        %dt
-          Last Updated:
-        %dd
-          &= formatDate(article.lastUpdated, "%A, %B %e, %Y")
 
     :if article.node
       %dl
@@ -117,15 +111,6 @@
                 %a{ href: snippet.filename}
                   &= base
 
-    %dl
-      %dt
-        Revisions:
-      %dd
-        %ul
-          :each version, stat in article.log
-            %li{title: stat.message}
-              %a{ href: "/#{version}/#{article.name}" }
-                &= new Date(stat.date).toUTCString()
 
   :if article.related && article.related.length > 0
     .bubble
