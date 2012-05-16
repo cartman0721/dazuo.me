@@ -1,4 +1,4 @@
-Title: 怎样才能长生不老
+Title: 悲剧启示录 1------velocity中json转译的问题
 Author: Dazuo Sun
 Date: Mon April 9 2012 06:23:00 GMT+0800 (China Standard Time)
 Lang: js
