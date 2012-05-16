@@ -3,6 +3,7 @@ Author: Dazuo Sun
 Date: Sat March 24 2012 15:37:00 GMT+0800 (China Standard Time)
 Lang: git
 
+   
    花了两个小时简单看了下这本书的前几章，为的是以后用起来更顺手一些，好记性不如烂笔头，顺手做些笔记。原书见http://progit.org/book/
 
 ## 一.关于svn 与 git的区别
