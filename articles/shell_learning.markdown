@@ -9,24 +9,31 @@ Lang: shell
 
 ####常用的命令：
 1.找日志文件里是否包含字符串：
+
     cartman@ubuntu:~/test$ grep -i sundazuo test.txt
     sundazuo
 
 2.ctrl+replace 将sundazuo 替换为cartman
+
     cartman@ubuntu:~/test$ sed -i 's/sundazuo/cartman/g' test.txt
 
 3.查看端口占用情况
+
     netstat -aon|grep 80
 
 4.查找历史命令
+
     Ctrl+r
 
 5.远程同步
+    
     rsync  "hz\dazuo.sundz"@10.250.4.110:/home/dazuo.sundz/* .
     Password: 
 6.统计文件大小
+
     du -h --max-depth=1
 7.删除找到到文件
+
     find . -name 'test.txt' -exec rm -rf {} +
 
 
