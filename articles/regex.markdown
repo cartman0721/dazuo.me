@@ -1,4 +1,4 @@
-Title: shell 学习记录
+Title: regex 学习记录
 Author: Dazuo Sun
 Date: Tue May 22 2012 11:13:00 GMT+0800 (China Standard Time)
 Lang: regex
