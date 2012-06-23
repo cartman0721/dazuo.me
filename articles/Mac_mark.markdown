@@ -1,6 +1,6 @@
 Title: macbook pro 使用小记
 Author: Dazuo Sun
-Date: Fri Jue 1 2012 20:10:00 GMT+0800 (China Standard Time)
+Date: Fri Jun 23 2012 13:10:00 GMT+0800 (China Standard Time)
 Lang: mac
 
 
